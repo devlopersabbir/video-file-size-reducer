@@ -1,2 +1,5 @@
 ffmpeg-python
 ffmpeg
+os
+json
+subprocess
